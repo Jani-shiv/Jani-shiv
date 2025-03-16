@@ -13,11 +13,10 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jani-shiv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Jani-shiv?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jani-shiv?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="YourUsername" />
+  <a href="https://github.com/YourUsername?tab=followers"><img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
+
 
 ---
 
