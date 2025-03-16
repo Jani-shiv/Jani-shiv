@@ -59,7 +59,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jani-shiv&theme=gruvbox" width="400px">
 </p>
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jani-shiv&layout=compact&theme=radical)
+--
 
 ## 🏆 GitHub Trophies 🏅
 <p align="center">
