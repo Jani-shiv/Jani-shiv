@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Shiv Jani</h1>
 <h3 align="center">🚀 Developer | 💻 Tech Enthusiast | 🌍 Open Source Contributor</h3>
 
 <p align="center">
@@ -8,13 +8,17 @@
 
 ---
 
-## 🌱 About Me
-- 🔭 I’m currently working on **[Your Project Name](GitHub Link)**
-- 🌱 I’m learning **[Your Tech Stack]**
-- 🤝 I’m looking for open-source contributions & collaborations
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[Your Email or Socials]**
-- ⚡ Fun fact: **[Something Unique About You]**
+# 🌱 About Me  
+🚀 **Frontend Developer | Content Creator | Digital Explorer**  
+
+- 🔭 I’m currently working on **⚡ Debugging life & fixing reality’s 404 errors.**  
+- 🌱 I’m learning **how to turn coffee into code & creativity into content.**  
+- 🤝 I’m looking for **open-source contributions, collaborations, and like-minded tech geeks!**  
+- 💬 Ask me about **Frontend Development, Digital Marketing, SEO, and Scaling Ideas.**  
+- 📫 Reach me at **[Your Email or Socials]**  
+- ⚡ Fun fact: **I write clean code but can’t keep my desk clean.**  
+
+🚀 **Motto:** *"Optimize code. Optimize life. Repeat."*
 
 ---
 
@@ -48,18 +52,16 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YourUsername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YourUsername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://instagram.com/YourUsername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shiv-jani-56973a26b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/jani._.712"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:shivjani2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🚀 Latest Projects
-- 📝 **[Project Name 1](GitHub Link)**
-- 🚀 **[Project Name 2](GitHub Link)**
-- 🎨 **[Project Name 3](GitHub Link)**
+- 📝 **[Farming] (https://github.com/Jani-shiv/React-Js-)**
+
 
 ---
 
@@ -71,7 +73,7 @@
 ---
 
 ## 🎵 Currently Listening To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/YourSpotifyID)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde?si=1494456dc1674d10))
 
 ---
 
