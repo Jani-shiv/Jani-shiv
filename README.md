@@ -41,14 +41,14 @@
 💡 **I work with:**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,python,django,git,github,figma,graphql,redux,aws,linux,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,python,django,git,github,figma,graphql,redux,aws,linux,postman,docker,kubernetes&theme=light" />
 </p>
 
 💪 **Expertise:**  
 ✔ **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
 ✔ **Backend:** Node.js, Express.js, Django, Firebase  
 ✔ **Database:** MongoDB, PostgreSQL, MySQL  
-✔ **DevOps:** Git, GitHub Actions, Docker, AWS  
+✔ **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, GitHub Actions  
 ✔ **AI & Data Science:** TensorFlow, OpenCV, NLP  
 
 ---
