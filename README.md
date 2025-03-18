@@ -55,8 +55,8 @@
 
 ## 📊 GitHub Stats & Streak 🔥
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jani-shiv&show_icons=true&theme=gruvbox" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jani-shiv&theme=gruvbox" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jani-shiv&show_icons=true&theme=radical" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jani-shiv&show_icon=true&theme=radical" width="400px">
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jani-shiv&layout=compact&theme=radical)
@@ -64,15 +64,12 @@
 
 ## 🏆 GitHub Trophies 🏅
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jani-shiv&theme=onedark&column=5">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark&no-frame=true&column=4">
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake 🐍
-<p align="center">
-  <img src="https://github.com/Jani-shiv/Jani-shiv/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
+
 
 ---
 
