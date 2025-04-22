@@ -12,7 +12,7 @@
 
 <!-- 🚀 Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Crafting+Next-Gen+Web+Experiences+💡;React%2C+Node%2C+AI+%26+Cloud+Specialist+☁️;Lover+of+Clean+Code+%26+Creative+Designs+🎨;Building+Projects+that+Solve+Real+Problems+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D¢er=true&vCenter=true&width=800&lines=Crafting+Next-Gen+Web+Experiences+💡;React%2C+Node%2C+AI+%26+Cloud+Specialist+☁️;Lover+of+Clean+Code+%26+Creative+Designs+🎨;Building+Projects+that+Solve+Real+Problems+🛠️" alt="Typing SVG" />
 </p>
 
 <!-- 🔥 Profile Stats -->
