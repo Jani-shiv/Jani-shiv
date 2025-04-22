@@ -5,16 +5,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 </h1>
 
-<h3 align="center">
-  Hey there! I'm <a href="https://github.com/Jani-shiv" target="_blank">Shiv Jani</a> 👋<br>
+
+
+<h3 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 600; color: #4A4A4A;">
+  Hey there! I'm <a href="https://github.com/Jani-shiv" target="_blank" style="color: #F7A41D; text-decoration: none;">Shiv Jani</a> 👋<br>
   💻 Full Stack Developer | 🌐 Web Wizard | 🧠 Lifelong Learner | ⚡ Open Source Advocate
 </h3>
 
 <!-- 🚀 Typing Tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D¢er=true&vCenter=true&width=800&lines=Crafting+Next-Gen+Web+Experiences+💡;React%2C+Node%2C+AI+%26+Cloud+Specialist+☁️;Lover+of+Clean+Code+%26+Creative+Designs+🎨;Building+Projects+that+Solve+Real+Problems+🛠️" alt="Typing SVG" />
-</p>
 
+
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D¢er=true&width=800&lines=Crafting+Next-Gen+Web+Experiences+💡;React%2C+Node%2C+AI+%26+Cloud+Specialist+☁️;Lover+of+Clean+Code+%26+Creative+Designs+🎨;Building+Projects+that+Solve+Real+Problems+🛠️" alt="Typing SVG" />
+</p>
 <!-- 🔥 Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jani-shiv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
