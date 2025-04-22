@@ -103,22 +103,6 @@
 
 ---
 
-## 🎵 Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde?si=1494456dc1674d10)
-
----
-
-## 😂 Joke of the Day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke Card" />
-</p>
-
----
-
 ## 🌱 Keep Growing. Keep Building. Keep Shining.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
-</p>
+
