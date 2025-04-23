@@ -1,5 +1,5 @@
 # Shiv Jani's Profile
-![Video](assets/me.mp4)
+![Preview](https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/me.gif)
 
 
 <!-- Social icons section -->
