@@ -116,12 +116,9 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Spotify
 
-[![Shiv's Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
+[![Shiv's Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
 
 
-### 🎧 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=false)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
 ---
 
 ## 🤝 Connect with Me
