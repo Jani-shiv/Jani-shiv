@@ -80,7 +80,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 📈 my github stats
-<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="50%"/>
+<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="45%"/>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jani-shiv&show_icons=true&theme=gotham" alt="jani-shiv" />
 
