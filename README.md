@@ -1,15 +1,14 @@
 # Shiv Jani's Profile
-![Preview](https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/me.gif)
-
+<img hight="auto" width="1000px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9ham12b2p5ajh4d21yYWFncTFyMDB5aXRmcGFvM3M3N2cxdXVsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y1YK1MS9BEz1UM91Ac/giphy.gif" />
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shiv-jani-56973a26b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/shiv-jani-56973a26b/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif?cid=ecf05e47fjydjg4w996nih5dfro79bzmvugcoqritorbvyqy&ep=v1_stickers_search&rid=giphy.gif&ct=ts" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/jani_712"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/jani_712"><img width="40px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.instagram.com/jani._.712/" target="_blank">
-  <img width="32px" alt="Instagram" title="Follow me on Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  <img width="40px" alt="Instagram" title="Follow me on Instagram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW04aWNhdHJ0bDlrc21ta3I3NGtrZWhhNmJmZHZpbnZvZ2d4cTIxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jqVUX17Ze8mw0nXBbJ/giphy.gif" />
 </a>
 </p>
 
