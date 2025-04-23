@@ -116,7 +116,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Spotify
 
-[![Shiv's Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11147618695)
+[![Shiv's Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde?si=qCoMlryfRsSprV2v7Ap9Rg)
 
 ---
 
