@@ -121,7 +121,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 🎧 Currently Vibing To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=true)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=false)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
 ---
 
 ## 🤝 Connect with Me
