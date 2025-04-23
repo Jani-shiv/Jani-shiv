@@ -43,17 +43,26 @@
 
 ---
 
-## About Me
+<h2 >🌟 About Me &nbsp;<img aling="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M2MWVyZ29jaXBhc2M0azRzMDQ5dGtsMHozcDY5emw4cmduNzZsZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="50" style="vertical-align:middle;"/></h2>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG91ZHhnbGJxbmZjZHRkMjJsOG4yNWM1b2FjYmQzZGNncHJuejZmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="230" />
 
-Hi, I'm **Shiv Jani**, a passionate **developer** and **tech enthusiast** specializing in **React.js**, **Frontend Development**, **Web Development**, and **Digital Marketing**. 🚀
+  <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1cWc2dW5zd2lsMjRiY3RyNHN2OTRuZDBrdnBvaGhjMWtyc2JxeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="55%" />
 
-Currently, I'm diving deep into building impactful projects like **Reiki Healing Websites** 🌿 and **Cloud & Application Management** systems ☁️, with a keen interest in **AI** and **Machine Learning** 🤖.
+Hey there! I'm **Shiv Jani**, a creative and driven **Frontend Developer** with a deep love for **React.js**, **Web Development**, and **Digital Marketing**. 🚀
 
-Beyond coding, I'm a creator who loves to share knowledge and insights about **personal growth** 🌱, **tech innovations** 💡, and the dynamic world of **web development** 💻 through my social media channels. 🌟
+Currently, I’m exploring powerful technologies through projects like:
+- ✨ **Reiki Healing Platforms** – blending tech with spiritual wellness  
+- ☁️ **Cloud & Application Management** – building scalable, cloud-ready apps  
+- 🤖 **AI & Machine Learning** – pushing boundaries of what’s possible
+ 
 
-✨ Join me on my journey to blend technology with mindful living. Let's create something truly meaningful together! ✨
+Outside of code, I’m a content creator passionate about:
+- 💡 Tech innovations & trends  
+- 🌱 Personal growth & mindful living  
+- 📱 Sharing valuable content through social media  
+
+🔗 I believe in creating meaningful digital experiences that inspire and empower others. Let’s connect and build something amazing together!
+
 
 
 ---
@@ -71,16 +80,23 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 📈 my github stats
+<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="50%"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jani-shiv&show_icons=true&theme=gotham" alt="jani-shiv" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jani-shiv&show_icons=true&theme=gotham" alt="jani-shiv" />
 
 ---
 ## Tech Stack
 
+
+  <img align='right' src="https://media.giphy.com/media/gshXSPw4cTEoUL6Z31/giphy.gif?cid=ecf05e47d7r3cw8agb3uquz1bik09flsfjp94b61ae9h1g9n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%" />
+
+  
 - **Frontend:** React.js, Next.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Django
 - **Database:** MongoDB, PostgreSQL
 - **Tools & Libraries:** TensorFlow, OpenCV, Express, Webpack, Git, Docker
+
+
 
 ---
 
@@ -104,11 +120,12 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
-- **[LinkedIn](https://www.linkedin.com/in/shiv-jani-56973a26b/)**
-- **[Instagram](https://www.instagram.com/jani._.712/)**
-- **[Spotify](https://open.spotify.com/user/11147618695)**
+- **[LinkedIn](https://www.linkedin.com/in/shiv-jani-56973a26b/)**  
+- **[Instagram](https://www.instagram.com/jani._.712/)**  
+- **[Spotify](https://open.spotify.com/user/11147618695)**  
+
 
 ---
 
