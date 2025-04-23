@@ -1,5 +1,9 @@
 # Shiv Jani's Profile
-<img hight="auto" width="1000px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9ham12b2p5ajh4d21yYWFncTFyMDB5aXRmcGFvM3M3N2cxdXVsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y1YK1MS9BEz1UM91Ac/giphy.gif" />
+
+<p align="center">
+  <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/me.gif" width="1000" height="500" alt="Shiv Jani in action">
+  <br/>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -18,19 +22,23 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/Jani-shiv?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jani-shiv?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
-  </a>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Web%20Dev-%2300C7B7?style=for-the-badge&logo=webflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Marketing-%23FF0080?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Apps-%23007396?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Jani-shiv?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Jani-shiv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Jani-shiv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jani-shiv?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Jani-shiv?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
   </a>
   <a href="https://github.com/Jani-shiv">
     <img alt="Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=Jani-shiv&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
 </p>
-
-
-<br/>
 
 
 ---
