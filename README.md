@@ -118,13 +118,17 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 [![Shiv's Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
 
+
+### 🎵 Now Playing on Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
 ---
 
 ## 🤝 Connect with Me
 
 - **[LinkedIn](https://www.linkedin.com/in/shiv-jani-56973a26b/)**  
 - **[Instagram](https://www.instagram.com/jani._.712/)**  
-- **[Spotify](https://open.spotify.com/user/11147618695)**  
+- **[Spotify](https://open.spotify.com/user/11147618695)**   
 
 
 ---
