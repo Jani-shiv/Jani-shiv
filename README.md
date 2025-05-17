@@ -78,6 +78,11 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jani-shiv&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 📈 my github stats
 <img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="45%"/>
