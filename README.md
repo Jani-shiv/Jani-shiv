@@ -1,5 +1,11 @@
 # Shiv Jani's Profile
 
+![Shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jani-shiv&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jani-shiv&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jani-shiv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/me.gif" width="1000" height="500" alt="Shiv Jani in action">
   <br/>
