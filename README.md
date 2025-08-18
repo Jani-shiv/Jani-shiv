@@ -84,12 +84,21 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ![](https://github-profile-trophy.vercel.app/?username=jani-shiv&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-📈 my github stats
-<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="45%"/>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jani-shiv&show_icons=true&theme=gotham" alt="jani-shiv" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jani-shiv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">📈 <span style="color:#21D4FD;">My GitHub Stats</span> 🚀</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jani-shiv&show_icons=true&theme=radical&title_color=FF0080&icon_color=FFD200&text_color=21D4FD&bg_color=0d1117" alt="jani-shiv" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jani-shiv&layout=compact&theme=radical&title_color=FFD200&text_color=21D4FD&bg_color=0d1117" width="40%"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs-FFD200?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Issues-21D4FD?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stars-B721FF?style=for-the-badge&logo=star&logoColor=white"/>
+</p>
 
 
 ---
