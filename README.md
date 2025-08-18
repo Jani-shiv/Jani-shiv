@@ -63,25 +63,11 @@ Outside of code, I’m a content creator passionate about:
 
 🔗 I believe in creating meaningful digital experiences that inspire and empower others. Let’s connect and build something amazing together!
 
-
-
----
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 11 mins   ███████████████████████░░   91.73 %
-HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Python       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
-
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jani-shiv&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jani-shiv&theme=rainbow&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies"/>
+</p>
 
 ---
 
