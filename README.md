@@ -122,19 +122,13 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-
 ## Spotify & Vibing 
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
-      <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-    </a>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" alt="Vibing" width="120"/>
-  </div>
-</div>
+<p align="left">
+  <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 
 
 
@@ -142,9 +136,15 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 🤝 Connect with Me
 
-- **[LinkedIn](https://www.linkedin.com/in/shiv-jani-56973a26b/)**  
-- **[Instagram](https://www.instagram.com/jani._.712/)**  
-- **[Spotify](https://open.spotify.com/user/11147618695)**   
+<a href="https://www.linkedin.com/in/shiv-jani-56973a26b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/jani._.712/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://open.spotify.com/user/11147618695" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
 
 
 ---
