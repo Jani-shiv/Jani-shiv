@@ -127,7 +127,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 [![Spotify](https://spotify-readme.vercel.app/api?username=jani-shiv&color=red&title=Spotify%20Now%20Playing&cache=1&theme=redical)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
 
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
