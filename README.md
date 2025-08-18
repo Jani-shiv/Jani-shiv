@@ -122,17 +122,19 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
+
 ## Spotify & Vibing 
 
-<p align="left">
-  <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-
-<p align="right">
-  <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
-    <img src="https://github-readme-vuejs-stats.vercel.app/api?username=31tnvy6ymtwr4hpnqhj6p4aaosde&theme=redical  "/>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+    </a>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" alt="Vibing" width="120"/>
+  </div>
+</div>
 
 
 
