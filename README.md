@@ -96,23 +96,17 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ## Tech Stack
 
 
-  <img align='right' src="https://media.giphy.com/media/gshXSPw4cTEoUL6Z31/giphy.gif?cid=ecf05e47d7r3cw8agb3uquz1bik09flsfjp94b61ae9h1g9n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%" />
 
-  
-- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Django
-- **Database:** MongoDB, PostgreSQL
-- **Tools & Libraries:** TensorFlow, OpenCV, Express, Webpack, Git, Docker
+  <img align='right' src="https://media.giphy.com/media/gshXSPw4cTEoUL6Z31/giphy.gif?cid=ecf05e47d7r3cw8agb3uquz1bik09flsfjp94b61ae9h1g9n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="13%" />
+
+  <ul>
+    <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/> <b>Frontend</b></li>
+    <li><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/> <b>Backend</b></li>
+    <li><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/> <b>Database</b></li>
+    <li><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" height="25"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/> <b>Tools & Libraries</b></li>
+  </ul>
 
 
-
----
-
-## Current Projects
-
-- **[OrganicVerify](#)** – A project aimed at authenticating organic products, verifying certifications, and analyzing ingredients using AI. 
-- **[Bridging Natural Farmers and Conscious Consumers](#)** – A web app that provides credit scoring for farmers, using live GIS data, weather forecasts, and more.
-- **[Shayari Teller](#)** – A fun and engaging website to tell beautiful shayaris.
 
 ---
 
