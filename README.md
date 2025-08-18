@@ -155,5 +155,5 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,FFD200,21D4FD,B721FF,FF0080,00C7B7&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0080,FFD200,21D4FD,00C7B7,00FF00,FF0000,FFA500,9400D3&height=120&section=footer&text=🌈%20Thanks%20for%20Vibing%20Here!%20🚀&fontSize=35&fontColor=fff&animation=twinkling"/>
 </p>
