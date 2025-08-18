@@ -1,7 +1,11 @@
 # Shiv Jani's Profile
 
 <p align="center">
-  <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/jani.mp4" width="1000" height="500" alt="Shiv Jani in action">
+  <!-- Video for platforms that support HTML5 video -->
+  <video width="1000" height="500" autoplay loop muted playsinline poster="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/jani.mp4" style="border-radius: 18px; box-shadow: 0 4px 24px #00000033;">
+    <source src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/jani.mp4" type="video/mp4">
+    <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/jani.mp4" width="1000" height="500" alt="Shiv Jani in action"/>
+  </video>
   <br/>
 </p>
 
