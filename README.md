@@ -118,7 +118,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## My Recent Activity
 
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=jani-shiv&theme=github-dark-dimmed&custom_title=Shiv%20Jani%20Activity%20Graph)
+![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=jani-shiv&theme=redical&custom_title=Shiv%20Jani%20Activity%20Graph)
 
 ---
 
