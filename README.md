@@ -1,7 +1,7 @@
 # Shiv Jani's Profile
 
 <p align="center">
-  <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/me.gif" width="1000" height="500" alt="Shiv Jani in action">
+  <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/jani.mp4" width="1000" height="500" alt="Shiv Jani in action">
   <br/>
 </p>
 
