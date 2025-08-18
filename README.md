@@ -125,11 +125,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ## Spotify & Vibing 
 
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" width="400"/>
-  </a>
-</p>
+[![Spotify](https://spotify-readme.vercel.app/api?username=jani-shiv&color=red&title=Spotify%20Now%20Playing&cache=1&theme=redical)](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
 
 <p align="center">
   <a href="https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde" target="_blank">
