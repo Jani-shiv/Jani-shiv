@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%26+Next.js+Expert+%E2%9A%A1;Digital+Marketing+Strategist+%F0%9F%93%88;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Creative+Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </p>
 
-<!-- Hero Image/GIF -->
-<p align="center">
-  <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/jani.gif" width="800" height="400" alt="Shiv Jani in action" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
-</p>
 
 <!-- Quick Stats Bar -->
 <p align="center">
