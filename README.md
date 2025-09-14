@@ -220,7 +220,7 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-500%2B-ff6b6b?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-00d4aa?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Issues%20Solved-30%2B-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Issues%20Solved-3%2B-blue?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Repositories-25%2B-purple?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
