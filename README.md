@@ -72,11 +72,10 @@
 ### 🚀 **Who I Am**
 ```yaml
 name: Shiv Jani
-role: Full Stack Developer & Digital Innovator
+role: DevOps & Cloud Enthusiast & Red Hat Learner
 location: India 🇮🇳
-education: Computer Science Engineering
-experience: 3+ Years
-focus: React.js, Next.js, Cloud Technologies
+experience: 1+ Years
+focus: React.js, Next.js, Cloud Technologies, DevOps,Linux
 passion: Creating Digital Experiences
 ```
 
