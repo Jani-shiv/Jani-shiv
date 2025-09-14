@@ -384,13 +384,13 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
   <img src="https://img.shields.io/badge/Cloud%20Architecture-Specialist-orange?style=for-the-badge&logo=aws&logoColor=white"/>
 </p>
 
----
+<!-- ---
 
 ## 🎵 **Currently Vibing To**
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tnvy6ymtwr4hpnqhj6p4aaosde&cover_image=true&theme=novatora&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-</div>
+</div> -->
 
 ---
 
