@@ -226,7 +226,7 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 
 ---
 
-## 🚀 **Featured Projects**
+<!-- ## 🚀 **Featured Projects**
 
 <table>
 <tr>
@@ -342,7 +342,7 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 - 🏆 **GPA: 8.5/10** - Specialized in Software Engineering and Web Technologies
 - 🥇 **Academic Excellence Award** - Top 10% of graduating class
 - 👥 **Team Lead** - Multiple project collaborations and technical presentations
-
+ -->
 ---
 
 ## 🌐 **Let's Connect & Collaborate**
