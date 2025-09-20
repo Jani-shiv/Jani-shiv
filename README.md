@@ -366,7 +366,7 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 
 ### 📬 **Get In Touch**
 - 📧 **Email:** [shivjani712@gmail.com](mailto:shivjani712@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiv-jani-56973a26b/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiv-jani/)
 - 🐦 **Twitter:** [@jani_shiv](https://twitter.com/jani_shiv)
 - 📱 **Instagram:** [@jani._.712](https://www.instagram.com/jani._.712/)
 - 🎵 **Spotify:** [My Coding Playlist](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
