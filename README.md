@@ -1,24 +1,27 @@
 <!-- Header Section with Dynamic Typing Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shiv%20Jani&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Innovator%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Shiv%20Jani&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Linux%20Enthusiast%20%7C%20Cloud%20Automation%20Expert&descAlignY=51&descAlign=62"/>
 </div>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%26+Next.js+Expert+%E2%9A%A1;Digital+Marketing+Strategist+%F0%9F%93%88;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Creative+Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%F0%9F%9A%80;Linux+%26+Red+Hat+Learner+%F0%9F%90%A7;CI%2FCD+Pipeline+Architect+%E2%9A%99%EF%B8%8F;Cloud+%26+Container+Expert+%E2%98%81%EF%B8%8F;YouTube+Content+Creator+%F0%9F%8E%A5;Infrastructure+as+Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
 <!-- Quick Stats Bar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=for-the-badge&logo=calendar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Full%20Stack-blue?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projects-15%2B-orange?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-success?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-DevOps%20Journey-brightgreen?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Linux%20%26%20Red%20Hat-red?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Content-YouTube%20Creator-success?style=for-the-badge&logo=youtube&logoColor=white"/>
 </p>
 
 <!-- Social Media Links with Enhanced Design -->
 <p align="center">
+  <a href="https://www.youtube.com/@YourChannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
   <a href="https://www.linkedin.com/in/shiv-jani-56973a26b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
@@ -72,62 +75,68 @@
 ### 🚀 **Who I Am**
 ```yaml
 name: Shiv Jani
-role: DevOps & Cloud Enthusiast & Red Hat Learner
+role: DevOps Engineer | Cloud Automation Specialist
 location: India 🇮🇳
-experience: 1+ Years
-focus: React.js, Next.js, Cloud Technologies, DevOps,Linux
-passion: Creating Digital Experiences
+current_learning: Linux, Red Hat, Kubernetes
+focus: CI/CD, Infrastructure Automation, Cloud Technologies
+passion: Automating Everything & Sharing Knowledge
+youtube: DevOps Content Creator
 ```
 
 ### 💡 **Current Focus**
-- 🔭 Working on **AI-powered web applications**
-- 🌱 Learning **DevOps & Cloud Architecture**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤔 Exploring **Web3 & Blockchain Technologies**
-- 💬 Ask me about **React, Node.js, Digital Marketing**
-- ⚡ Fun fact: **I code better with music 🎵**
+- 🔭 Building **CI/CD pipelines** and automating deployments
+- 🐧 Deep diving into **Linux system administration** and **Red Hat**
+- 🎥 Creating **DevOps tutorials** on my **YouTube channel**
+- ☁️ Mastering **Cloud platforms** (AWS, Azure, GCP)
+- 🐳 Working with **Docker, Kubernetes**, and container orchestration
+- 🔧 Learning **Infrastructure as Code** (Terraform, Ansible)
+- 💬 Ask me about **DevOps, Linux, CI/CD, Cloud automation**
+- ⚡ Fun fact: **I automate boring tasks for fun! 🤖**
 
 </td>
 <td valign="top" width="50%">
 
 <div align="center">
-  <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/me.gif" width="100%" alt="Coding GIF"/>
+  <img src="https://github.com/Jani-shiv/Jani-shiv/blob/main/assets/me.gif" width="100%" alt="DevOps GIF"/>
 </div>
 
 ### 🎯 **What I Do**
-- **Frontend Development:** Crafting responsive, user-centric interfaces
-- **Backend Solutions:** Building scalable APIs and server architectures  
-- **Digital Marketing:** SEO optimization and growth strategies
-- **Cloud Integration:** Deploying applications on modern cloud platforms
-- **AI/ML Projects:** Implementing intelligent features in web apps
-- **Content Creation:** Sharing knowledge through blogs and social media
+- **DevOps Engineering:** Implementing CI/CD pipelines and automation
+- **Cloud Infrastructure:** Deploying and managing cloud-native applications
+- **Linux Administration:** System management and shell scripting
+- **Container Orchestration:** Docker, Kubernetes, and microservices
+- **Infrastructure as Code:** Terraform, Ansible, CloudFormation
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Content Creation:** Sharing DevOps knowledge on YouTube
+- **Community Building:** Helping others learn DevOps practices
 
 </td>
 </tr>
 </table>
 
-### 🌟 **My Journey**
-I'm a passionate **Full Stack Developer** with a unique blend of technical expertise and digital marketing acumen. My journey began with a curiosity for how websites work, and it has evolved into a comprehensive skill set spanning modern web technologies, cloud computing, and AI integration.
+### 🌟 **My DevOps Journey**
+I'm a passionate **DevOps Engineer** on a mission to automate, optimize, and streamline software delivery. My journey started with a fascination for how applications are deployed and has evolved into expertise in cloud infrastructure, containerization, and continuous integration/continuous deployment.
 
-**🎓 What sets me apart:**
-- Strong foundation in **Computer Science Engineering**
-- Hands-on experience with **React.js ecosystem** and modern JavaScript
-- Proven track record in **digital marketing** and **SEO optimization**
-- Active contributor to **open-source projects**
-- Mentor for aspiring developers in the tech community
+**🎓 What defines my approach:**
+- Strong foundation in **Linux system administration** and **Red Hat technologies**
+- Hands-on experience with **CI/CD pipelines** and automation tools
+- Passionate about **Infrastructure as Code** and configuration management
+- Active **YouTube content creator** sharing DevOps knowledge
+- Committed to **continuous learning** in the ever-evolving DevOps landscape
 
 **🔥 Current Ventures:**
-- Building **Reiki Healing Platforms** that merge wellness with technology
-- Developing **cloud-native applications** with scalable architectures
-- Exploring **AI/ML integration** in web applications
-- Creating **educational content** for the developer community
+- 🎥 **YouTube Channel:** Creating tutorials on DevOps, Linux, and cloud technologies
+- 🐧 **Red Hat Learning Path:** Pursuing Red Hat certifications and mastering enterprise Linux
+- ☁️ **Cloud Projects:** Building scalable infrastructure on AWS, Azure, and GCP
+- 🤖 **Automation Scripts:** Developing tools to streamline DevOps workflows
+- 📚 **Knowledge Sharing:** Writing blogs and creating content for the DevOps community
 
 ---
 
-## 🛠️ **Skills & Expertise**
+## 🛠️ **DevOps & Cloud Technologies Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,postgres,python,django,html,css,tailwind,bootstrap,git,github,docker,aws,vercel,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,terraform,ansible,aws,azure,gcp,git,github,gitlab,python,go,nginx,prometheus,grafana,redis,postgres&theme=dark" />
 </div>
 
 ### 📊 **Skill Proficiency**
@@ -136,46 +145,57 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 <tr>
 <td valign="top" width="33%">
 
-**Frontend Development**
-- React.js ⭐⭐⭐⭐⭐
-- Next.js ⭐⭐⭐⭐⭐
-- JavaScript ⭐⭐⭐⭐⭐
-- TypeScript ⭐⭐⭐⭐⭐
-- HTML/CSS ⭐⭐⭐⭐⭐
-- Tailwind CSS ⭐⭐⭐⭐⭐
-
-</td>
-<td valign="top" width="33%">
-
-**Backend Development**
-- Node.js ⭐⭐⭐⭐⭐
-- Express.js ⭐⭐⭐⭐⭐
-- Python ⭐⭐⭐⭐⭐
-- Django ⭐⭐⭐⭐⭐
-- MongoDB ⭐⭐⭐⭐⭐
-- PostgreSQL ⭐⭐⭐⭐⭐
-
-</td>
-<td valign="top" width="33%">
-
-**Tools & Technologies**
-- Git/GitHub ⭐⭐⭐⭐⭐
+**DevOps & CI/CD**
 - Docker ⭐⭐⭐⭐⭐
+- Kubernetes ⭐⭐⭐⭐
+- Jenkins ⭐⭐⭐⭐⭐
+- GitHub Actions ⭐⭐⭐⭐⭐
+- GitLab CI/CD ⭐⭐⭐⭐
+- ArgoCD ⭐⭐⭐⭐
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & Infrastructure**
 - AWS ⭐⭐⭐⭐⭐
-- Vercel ⭐⭐⭐⭐⭐
-- Digital Marketing ⭐⭐⭐⭐⭐
-- SEO Optimization ⭐⭐⭐⭐⭐
+- Azure ⭐⭐⭐⭐
+- GCP ⭐⭐⭐⭐
+- Terraform ⭐⭐⭐⭐⭐
+- Ansible ⭐⭐⭐⭐⭐
+- CloudFormation ⭐⭐⭐⭐
+
+</td>
+<td valign="top" width="33%">
+
+**Linux & Scripting**
+- Linux/RHEL ⭐⭐⭐⭐⭐
+- Bash Scripting ⭐⭐⭐⭐⭐
+- Python ⭐⭐⭐⭐⭐
+- PowerShell ⭐⭐⭐⭐
+- Git/Version Control ⭐⭐⭐⭐⭐
+- Vim/Nano ⭐⭐⭐⭐⭐
 
 </td>
 </tr>
 </table>
 
-### 🎓 **Certifications & Achievements**
-- 🏆 **React.js Specialist** - Advanced Component Architecture
-- 🏆 **Full Stack Web Development** - MERN Stack Expert
-- 🏆 **Digital Marketing Certified** - Google Analytics & SEO
-- 🏆 **Cloud Computing** - AWS Solutions Architecture
-- 🏆 **Open Source Contributor** - Multiple GitHub Projects
+### 🔧 **Monitoring & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
+</p>
+
+### 🎓 **Learning & Certifications**
+- 🐧 **Red Hat System Administrator** - In Progress
+- 🏆 **AWS Certified Solutions Architect** - Preparing
+- 🏆 **Docker & Kubernetes** - Hands-on Experience
+- 🏆 **Linux Foundation** - System Administration
+- 🎥 **YouTube Content Creator** - DevOps Tutorials
+- 🏆 **CI/CD Pipeline Design** - Jenkins, GitLab, GitHub Actions
 
 ---
 
@@ -225,38 +245,262 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 
 ---
 
-<!-- ## 🚀 **Featured Projects**
+## 🎥 **YouTube Channel - DevOps Learning Hub**
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=divider"/>
+</div>
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 📺 **Content I Create**
+I share my DevOps journey and knowledge through video tutorials, covering:
+
+- 🐧 **Linux Fundamentals** - Command line mastery, system administration
+- 🔴 **Red Hat Enterprise Linux** - RHEL tutorials and certification prep
+- 🐳 **Docker & Containerization** - Building, deploying, and managing containers
+- ☸️ **Kubernetes** - Container orchestration from basics to advanced
+- ⚙️ **CI/CD Pipelines** - Jenkins, GitHub Actions, GitLab CI/CD
+- ☁️ **Cloud Platforms** - AWS, Azure, GCP deployment tutorials
+- 🔧 **Infrastructure as Code** - Terraform, Ansible automation
+- 📊 **Monitoring & Logging** - Prometheus, Grafana, ELK Stack
+- 🚀 **Real-world Projects** - Complete DevOps implementation guides
+
+### 🎯 **Channel Goals**
+- Help beginners start their DevOps journey
+- Share practical, hands-on tutorials
+- Build a supportive DevOps learning community
+- Document my learning path to inspire others
+
+</td>
+<td valign="top" width="40%">
+
+<div align="center">
+  
+### 🔔 **Subscribe & Follow!**
+
+<a href="https://www.youtube.com/@YourChannel" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribe" alt="YouTube Subscribe"/>
+</a>
+
+<br><br>
+
+### 📊 **Channel Stats**
+<img src="https://img.shields.io/badge/Videos-Growing-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Topics-DevOps%20%26%20Linux-blue?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<br>
+
+### 🎬 **Latest Topics**
+- Docker Deep Dive 🐳
+- Kubernetes Basics ☸️
+- Linux Command Mastery 🐧
+- CI/CD with Jenkins ⚙️
+- AWS Cloud Deploy ☁️
+- Terraform Tutorial 🔧
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 **Featured DevOps Projects**
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🌟 **Reiki Healing Platform**
+### 🐳 **Multi-Container Application Deployment**
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </div>
 
-**Description:** A comprehensive platform for spiritual wellness and healing services with booking system, payment integration, and user management.
+**Description:** Complete microservices architecture deployed on Kubernetes cluster with automated CI/CD pipeline and monitoring.
 
 **Features:**
-- 🔒 Secure user authentication
-- 💳 Payment gateway integration
-- 📅 Appointment scheduling system
-- 📱 Responsive design
+- 🚀 Auto-scaling containerized applications
+- 📊 Prometheus & Grafana monitoring
+- 🔄 GitOps workflow with ArgoCD
+- 🛡️ Security scanning integrated
 
 [🔗 Live Demo](https://github.com/Jani-shiv) | [📂 Repository](https://github.com/Jani-shiv)
 
 </td>
 <td valign="top" width="50%">
 
-### 🤖 **AI-Powered Web App**
+### ⚙️ **CI/CD Pipeline Automation**
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </div>
+
+**Description:** Automated build, test, and deployment pipeline with integrated code quality checks and security scanning.
+
+**Features:**
+- 🔄 Automated testing & deployment
+- 📈 Code quality analysis
+- 🔒 Security vulnerability scanning
+- 📢 Slack/Discord notifications
+
+[🔗 Live Demo](https://github.com/Jani-shiv) | [📂 Repository](https://github.com/Jani-shiv)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ☁️ **Infrastructure as Code (IaC)**
+<div align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
+
+**Description:** Automated cloud infrastructure provisioning and configuration management using Terraform and Ansible.
+
+**Features:**
+- 🏗️ Multi-cloud infrastructure deployment
+- 🔧 Automated configuration management
+- 📦 Modular and reusable code
+- 🔄 State management & versioning
+
+[🔗 Live Demo](https://github.com/Jani-shiv) | [📂 Repository](https://github.com/Jani-shiv)
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 **Complete Monitoring Stack**
+<div align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+</div>
+
+**Description:** Full-stack monitoring and logging solution with custom dashboards and alerting for production environments.
+
+**Features:**
+- 📈 Real-time metrics visualization
+- 🔍 Centralized log management
+- 🚨 Intelligent alerting system
+- 📊 Custom Grafana dashboards
+
+[🔗 Live Demo](https://github.com/Jani-shiv) | [📂 Repository](https://github.com/Jani-shiv)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐧 **Linux & Red Hat Learning Journey**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 📚 **What I'm Learning**
+- **System Administration:** User management, permissions, processes
+- **Shell Scripting:** Bash automation and script development
+- **Package Management:** YUM, DNF, APT package managers
+- **Networking:** Configuration, troubleshooting, firewalls
+- **Storage Management:** LVM, filesystems, disk partitioning
+- **Security:** SELinux, firewalld, SSH hardening
+- **Services:** Systemd, service management, troubleshooting
+- **Red Hat Ecosystem:** RHEL, CentOS, Fedora
+
+</td>
+<td valign="top" width="50%">
+
+### 🎯 **Certification Goals**
+- 🎓 **RHCSA** (Red Hat Certified System Administrator)
+- 🎓 **RHCE** (Red Hat Certified Engineer)
+- 🎓 **Linux Foundation Certified**
+- 🎓 **CompTIA Linux+**
+
+### 📖 **Learning Resources**
+- Official Red Hat Documentation
+- Linux Academy / A Cloud Guru
+- Hands-on lab practice
+- Community forums and discussions
+- Personal home lab setup
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 **DevOps Best Practices I Follow**
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔄 **Continuous Integration/Deployment**
+- ✅ Automated testing at every stage
+- ✅ Code quality and security scanning
+- ✅ Frequent, small commits
+- ✅ Feature branch workflow
+- ✅ Automated deployment pipelines
+- ✅ Rollback strategies
+
+### 🏗️ **Infrastructure Management**
+- ✅ Everything as Code (IaC)
+- ✅ Version-controlled configurations
+- ✅ Immutable infrastructure
+- ✅ Container-first approach
+- ✅ Cloud-native design patterns
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 **Monitoring & Observability**
+- ✅ Comprehensive logging strategy
+- ✅ Real-time metrics collection
+- ✅ Distributed tracing
+- ✅ Proactive alerting
+- ✅ Performance optimization
+- ✅ Incident response planning
+
+### 🔒 **Security & Compliance**
+- ✅ Security scanning in CI/CD
+- ✅ Secrets management
+- ✅ Principle of least privilege
+- ✅ Regular security audits
+- ✅ Compliance automation
+
+</td>
+</tr>
+</table>
+
+---
+
+<!--
+## 🎯 **Professional Experience**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Career%20Journey-Professional%20Experience-ff6b6b?style=for-the-badge&logo=briefcase&logoColor=white"/>
+</div>
+
+### 💼 **Full Stack Developer** | *Freelance* | `2021 - Present`
 
 **Description:** An intelligent web application that leverages machine learning for predictive analytics and automated decision making.
 
@@ -355,21 +599,23 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 <td valign="top" width="50%">
 
 ### 🤝 **Open for Opportunities**
-- 💼 **Freelance Projects** - Web Development & Consultation
-- 🚀 **Full-time Roles** - Frontend/Full Stack Developer positions
-- 🌟 **Collaboration** - Open source projects and tech initiatives
-- 📚 **Mentorship** - Helping aspiring developers grow
-- 🎤 **Speaking** - Tech talks and community events
+- 💼 **DevOps Roles** - Junior to Mid-level DevOps Engineer positions
+- 🚀 **Cloud Projects** - AWS, Azure, GCP infrastructure work
+- 🌟 **Collaboration** - Open source DevOps tools and automation projects
+- 📚 **Learning Together** - Study groups and certification preparation
+- 🎥 **Content Collaboration** - Guest appearances and co-creating tutorials
+- 🎤 **Speaking** - Tech talks on DevOps, Linux, and cloud technologies
 
 </td>
 <td valign="top" width="50%">
 
 ### 📬 **Get In Touch**
+- 🎥 **YouTube:** [DevOps Tutorials](https://www.youtube.com/@YourChannel)
 - 📧 **Email:** [shivjani712@gmail.com](mailto:shivjani712@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiv-jani/)
-- 🐦 **Twitter:** [@jani_shiv](https://twitter.com/jani_shiv)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiv-jani-56973a26b/)
+- 💬 **Dev.to:** [@jani_712](https://dev.to/jani_712)
 - 📱 **Instagram:** [@jani._.712](https://www.instagram.com/jani._.712/)
-- 🎵 **Spotify:** [My Coding Playlist](https://open.spotify.com/user/31tnvy6ymtwr4hpnqhj6p4aaosde)
+- 🐙 **GitHub:** [Follow my journey](https://github.com/Jani-shiv)
 
 </td>
 </tr>
@@ -377,10 +623,11 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 
 ### 💡 **What I Can Help You With**
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js%20Development-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Solutions-Available-success?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital%20Marketing-Consultant-ff6b6b?style=for-the-badge&logo=marketing&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Architecture-Specialist-orange?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-Expert-61DAFB?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20%26%20Kubernetes-Available-success?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Administration-Learning-ff6b6b?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-Specialist-orange?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
 <!-- ---
@@ -405,23 +652,25 @@ I'm a passionate **Full Stack Developer** with a unique blend of technical exper
 </div>
 
 ### 🏃‍♂️ **Quick Facts About Me**
-- ☕ **Coffee Enthusiast** - Can't code without my morning brew
-- 🎵 **Music Lover** - Lo-fi hip hop is my coding companion
-- 🌱 **Continuous Learner** - Always exploring new technologies
-- 🎨 **Design Appreciator** - Love clean, minimalist interfaces
+- ☕ **Coffee-Powered Automation** - Scripting solutions one cup at a time
+- 🐧 **Linux Enthusiast** - Terminal is my second home
+- 🌱 **Continuous Learner** - Always exploring new DevOps tools and practices
+- 🤖 **Automation Obsessed** - If it can be automated, it should be automated
 - 🌍 **Open Source Advocate** - Believe in community-driven development
-- 🎯 **Goal-Oriented** - Always setting and achieving new milestones
+- 🎯 **Goal-Oriented** - Red Hat certified... soon!
+- 🎥 **Content Creator** - Sharing knowledge through YouTube tutorials
+- 🔧 **Problem Solver** - Love troubleshooting and optimizing systems
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!%20Let's%20Build%20Something%20Amazing%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&text=Thanks%20for%20Visiting!%20Let's%20Automate%20the%20World%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jani-shiv&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/jani-shiv?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Open%20for-Collaboration-success?style=flat-square" alt="Open for Collaboration"/>
+  <img src="https://img.shields.io/badge/Open%20for-DevOps%20Opportunities-success?style=flat-square" alt="Open for DevOps Opportunities"/>
 </div>
 
-<!-- Made with ❤️ by Shiv Jani -->
+<!-- Made with ❤️ and lots of ☕ by Shiv Jani - DevOps Engineer in the making! -->
