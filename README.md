@@ -1,74 +1,138 @@
-<h1 align="center">
-  <img src="cards/hero.svg" alt="Shiv Jani" width="1000"/>
-</h1>
-
-<p align="center">
-  <img src="cards/tiles.svg" alt="Key Stats" width="1000"/>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00CFFF,100:9B5DE5&height=240&section=header&text=SHIV%20JANI&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=BUILD.%20AUTOMATE.%20OBSERVE.&descSize=20&descAlignY=60&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
-  <img src="cards/contributions.svg" alt="Contribution Stats" width="1000"/>
+  <a href="https://www.linkedin.com/in/shiv-jani"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Jani-shiv"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://shiv-jani.medium.com"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://hub.docker.com/u/jani712"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+</p>
+
+---
+
+<table>
+<tr>
+<td width="50%" bgcolor="#171A2B">
+
+### 🟣 ABOUT
+
+**DevOps & Cloud Engineer**
+
+RHCSA Certified · Open Source · AI
+
+</td>
+<td width="50%" bgcolor="#202B3F">
+
+### 🟢 COMMUNITY
+
+**Chapter Leader**
+
+Elastic User Group Gujarat
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#26334A">
+
+### 🟠 BUILDING
+
+**TokenSentry**
+
+AI · Token Optimization · Python
+
+</td>
+<td bgcolor="#342448">
+
+### 🔵 EXPLORING
+
+**Observability & AI**
+
+Elastic · Kubernetes · LLMs
+
+</td>
+</tr>
+</table>
+
+## ⚙️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,terraform,jenkins,githubactions,python,git,nginx,mysql,postgres,grafana,prometheus,figma&perline=8" />
+</p>
+
+## 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 TokenSentry
+
+AI Prompt & Token Optimization
+
+[↗ Explore Repository](https://github.com/Jani-shiv/TokenSentry)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 Elastic Community Studio
+
+Elastic Image Search Demo
+
+[↗ Explore Repository](https://github.com/Jani-shiv/elastic-community-studio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 InfraFable
+
+Engineering & Open Source
+
+[↗ Explore Organization](https://github.com/InfraFable)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟠 More Experiments
+
+Tools, Automation & Projects
+
+[↗ All Repositories](https://github.com/Jani-shiv?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jani-shiv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00D4FF&icon_color=BB86FC"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jani-shiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00D4FF"/>
 </p>
 
 <p align="center">
-  <img src="cards/repo-0.svg" alt="Featured Repo 1" width="1000"/>
-  <br/>
-  <img src="cards/repo-1.svg" alt="Featured Repo 2" width="1000"/>
-  <br/>
-  <img src="cards/repo-2.svg" alt="Featured Repo 3" width="1000"/>
-  <br/>
-  <img src="cards/repo-3.svg" alt="Featured Repo 4" width="1000"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=Jani-shiv&theme=tokyonight&hide_border=true&background=111827"/>
+</p>
+
+## 🌐 FIND ME ONLINE
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiv-jani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://shiv-jani.medium.com"><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-000000?style=flat-square&logo=medium"/></a>
+  <a href="https://hub.docker.com/u/jani712"><img src="https://img.shields.io/badge/Docker-Hub-2496ED?style=flat-square&logo=docker"/></a>
+  <a href="https://github.com/Jani-shiv"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github"/></a>
 </p>
 
 <p align="center">
-  <img src="cards/graph.svg" alt="Contribution Graph" width="1000"/>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://youtube.com/@devopsnidiary" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shiv-jani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/jani_712" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:shivjani712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jani-shiv&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jani-shiv&label=Profile%20Views&color=FF6B35&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Jani-shiv?label=Followers&style=flat-square&color=58A6FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/DevOps-Engineer-success?style=flat-square" alt="DevOps"/>
+  <b>⚡ ENGINEER THE FUTURE. ONE COMMIT AT A TIME.</b>
 </p>
 
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,terraform,ansible,aws,azure,git,github,python,nginx,prometheus,grafana&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-
-**Open for:** DevOps Roles | Cloud Projects | Collaborations | Content Creation
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer"/>
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Automating+the+world%2C+one+pipeline+at+a+time!+%E2%9A%A1;Thanks+for+visiting!+%F0%9F%91%8B" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:8B5CF6&height=100&section=footer"/>
 </p>
